@@ -31,24 +31,3 @@ This project is a college course map built with TypeScript and the Ionic framewo
 ## Icons
 ![image](https://github.com/user-attachments/assets/8603d551-fcac-4d85-9889-ad2b1ae2a215)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Icons
-![image](https://github.com/user-attachments/assets/64b03fb7-f0fc-4b6c-bdb5-bf3ad224afc7)
